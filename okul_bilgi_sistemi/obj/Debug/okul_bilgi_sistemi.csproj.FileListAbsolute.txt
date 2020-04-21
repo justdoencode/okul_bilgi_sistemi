@@ -1,0 +1,15 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\bin\Debug\okul_bilgi_sistemi.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\bin\Debug\okul_bilgi_sistemi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\bin\Debug\okul_bilgi_sistemi.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_giris.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_ogrencinotlar.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_ogretmen.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_kulup.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_dersler.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_ogrenci.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\okul_bilgi_sistemi\okul_bilgi_sistemi\obj\Debug\okul_bilgi_sistemi.frm_sinavnotlar.resources
